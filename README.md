@@ -1,7 +1,7 @@
 # Lemon-detection
 This code check if a participant is successfully able to complete a lemon and spoon race or not.
 
-- This code is implemnted in Matlab.
+- This code is implemented in Matlab.
 - This is a personal project that I did to understand video processing.
 - Each video suppiled to the code is broken down into frames.
 - Within each frame, the lemon is detected.
